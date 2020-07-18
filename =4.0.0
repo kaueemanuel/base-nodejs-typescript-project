@@ -1,0 +1,65 @@
+yarn add v1.22.4
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@2.1.3: The platform "win32" is incompatible with this module.
+info "fsevents@2.1.3" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 45 new dependencies.
+info Direct dependencies
+├─ @typescript-eslint/eslint-plugin@3.6.1
+├─ @typescript-eslint/parser@3.6.1
+├─ eslint-config-standard@14.1.1
+├─ eslint-plugin-import@2.22.0
+├─ eslint-plugin-node@11.1.0
+├─ eslint-plugin-promise@4.2.1
+├─ eslint-plugin-standard@4.0.1
+└─ eslint@7.4.0
+info All dependencies
+├─ @types/eslint-visitor-keys@1.0.0
+├─ @types/json-schema@7.0.5
+├─ @typescript-eslint/eslint-plugin@3.6.1
+├─ @typescript-eslint/parser@3.6.1
+├─ @typescript-eslint/visitor-keys@3.6.1
+├─ array-includes@3.1.1
+├─ array.prototype.flat@1.2.3
+├─ contains-path@0.1.0
+├─ doctrine@1.5.0
+├─ es-to-primitive@1.2.1
+├─ eslint-config-standard@14.1.1
+├─ eslint-import-resolver-node@0.3.4
+├─ eslint-module-utils@2.6.0
+├─ eslint-plugin-es@3.0.1
+├─ eslint-plugin-import@2.22.0
+├─ eslint-plugin-node@11.1.0
+├─ eslint-plugin-promise@4.2.1
+├─ eslint-plugin-standard@4.0.1
+├─ eslint-scope@5.1.0
+├─ eslint@7.4.0
+├─ find-up@2.1.0
+├─ is-callable@1.2.0
+├─ is-date-object@1.0.2
+├─ is-regex@1.1.0
+├─ is-string@1.0.5
+├─ is-symbol@1.0.3
+├─ isarray@1.0.0
+├─ load-json-file@2.0.0
+├─ locate-path@2.0.0
+├─ lodash@4.17.19
+├─ object-inspect@1.8.0
+├─ object-keys@1.1.1
+├─ object.assign@4.1.0
+├─ object.values@1.1.1
+├─ p-limit@1.3.0
+├─ p-locate@2.0.0
+├─ p-try@1.0.0
+├─ path-exists@3.0.0
+├─ path-type@2.0.0
+├─ pkg-dir@2.0.0
+├─ read-pkg-up@2.0.0
+├─ read-pkg@2.0.0
+├─ string.prototype.trimend@1.0.1
+├─ string.prototype.trimstart@1.0.1
+└─ tslib@1.13.0
+Done in 3.69s.
